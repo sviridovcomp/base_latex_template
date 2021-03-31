@@ -1,10 +1,10 @@
 # Fdb version 3
-["pdflatex"] 1617203059 "/home/vasilysviridov/code/latex/base_latex_template/main.tex" "/home/vasilysviridov/code/latex/base_latex_template/main.pdf" "main" 1617203059
+["pdflatex"] 1617204293 "/home/vasilysviridov/code/latex/base_latex_template/main.tex" "/home/vasilysviridov/code/latex/base_latex_template/main.pdf" "main" 1617204294
   "/etc/texmf/web2c/texmf.cnf" 1609703239 475 c0e671620eb5563b2130f56340a5fde8 ""
   "/home/vasilysviridov/.texlive2020/texmf-var/fonts/tfm/lh/lh-t2a/larm0800.tfm" 1611848003 3240 04766e423166ba63b7fbbf132b8618cb ""
   "/home/vasilysviridov/.texlive2020/texmf-var/fonts/tfm/lh/lh-t2a/larm1200.tfm" 1609703675 3240 c2435f2b5cd66d4930bc29b8df87967e ""
-  "/home/vasilysviridov/code/latex/base_latex_template/main.aux" 1617203059 108 558947da7cbcfae9c3b05f4ac35ab34c ""
-  "/home/vasilysviridov/code/latex/base_latex_template/main.tex" 1617203058 1640 a1f0ac5dda8f2c454496e3d9b049ee17 ""
+  "/home/vasilysviridov/code/latex/base_latex_template/main.aux" 1617204294 108 558947da7cbcfae9c3b05f4ac35ab34c ""
+  "/home/vasilysviridov/code/latex/base_latex_template/main.tex" 1617204293 1628 dded74cb1951b9a2cd018ff77fde8ef9 ""
   "/usr/share/texlive/texmf-dist/fonts/map/fontname/texfonts.map" 1577235249 3524 cb3e574dea2d1052e39280babc910dc8 ""
   "/usr/share/texlive/texmf-dist/fonts/tfm/public/amsfonts/cmextra/cmex7.tfm" 1246382020 1004 54797486969f23fa377b128694d548df ""
   "/usr/share/texlive/texmf-dist/fonts/tfm/public/amsfonts/cmextra/cmex8.tfm" 1246382020 988 bdf658c3bfc2d96d3c8b02cfc1c94c20 ""
@@ -69,11 +69,11 @@
   "/usr/share/texmf/web2c/texmf.cnf" 1596975543 38841 5237427e4d3283e7b009b6a8b45dfdcd ""
   "/var/lib/texmf/fonts/map/pdftex/updmap/pdftex.map" 1615742448 4873039 f4d9830f18256752006a9b34e99549ad ""
   "/var/lib/texmf/web2c/pdftex/pdflatex.fmt" 1615742497 2444074 07086329202600c24ce6033a99a7cacd ""
-  "main.aux" 1617203059 108 558947da7cbcfae9c3b05f4ac35ab34c "pdflatex"
-  "main.tex" 1617203058 1640 a1f0ac5dda8f2c454496e3d9b049ee17 ""
+  "main.aux" 1617204294 108 558947da7cbcfae9c3b05f4ac35ab34c "pdflatex"
+  "main.tex" 1617204293 1628 dded74cb1951b9a2cd018ff77fde8ef9 ""
   (generated)
-  "/home/vasilysviridov/code/latex/base_latex_template/main.pdf"
-  "main.pdf"
-  "main.aux"
-  "main.log"
   "/home/vasilysviridov/code/latex/base_latex_template/main.log"
+  "main.pdf"
+  "main.log"
+  "main.aux"
+  "/home/vasilysviridov/code/latex/base_latex_template/main.pdf"
